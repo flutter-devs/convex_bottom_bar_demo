@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/flutter_convex_bottom_bar_demo/BuildConfig.java
+ com.example.flutter_convex_bottom_bar_demo.BuildConfig
